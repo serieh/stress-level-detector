@@ -1,6 +1,10 @@
 # Local documents & archive (untracked)
 docs_archive/
 
+# Models & Releases (untracked, published as GitHub Releases)
+models/
+releases/
+
 # Python & virtual environment
 __pycache__/
 *.py[cod]
